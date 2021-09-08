@@ -29,7 +29,7 @@
 } */
 
 main{
-    background: url(./image/compass-bg.jpg) no-repeat center fixed;
+    background: url(./compass-bg.jpg) no-repeat center fixed;
     background-size: cover; 
     display: flex;
     justify-content: center;
